@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Лабораторна работа з Git!");
+            Console.WriteLine("Автора: Резніченко Максим");		
         }
     }
 }
